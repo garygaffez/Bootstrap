@@ -1,0 +1,4 @@
+.container-fluid, .row {
+    padding: 0;
+    --bs-gutter-x: 0;
+}
